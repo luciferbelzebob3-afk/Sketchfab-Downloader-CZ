@@ -1,0 +1,476 @@
+{
+  "schema": 1,
+  "inspected_date": "2026-11-13",
+  "scope": "Top-level application executables and native runtime files; no application code is included.",
+  "files": [
+    {
+      "path": "Sketchfab Stahovač.exe",
+      "bytes": 2878961,
+      "sha256": "c4faff14b1e61a5affd3c9d2e4e95518cddaeea38464e753cbc8f851d244072e",
+      "file_version": "1.1.3.0",
+      "product": "Stahovač modelů Sketchfab"
+    },
+    {
+      "path": "SketchfabTest.exe",
+      "bytes": 2878959,
+      "sha256": "8f390c859c846596dd308972fa4ccc63526af89439a9c0d3007c607603c28070",
+      "file_version": "1.1.3.0",
+      "product": "Stahovač modelů Sketchfab"
+    },
+    {
+      "path": "_internal/_bz2.pyd",
+      "bytes": 23552,
+      "sha256": "e1700ba34a8d1f9d51501a7ba5b05ef12784c18a22a431d6685ede16529aaa40",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_ctypes.pyd",
+      "bytes": 117248,
+      "sha256": "87a96b342caac2988beadc99fbcb0e800111f403e46876f091cd39e03337a7e2",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_decimal.pyd",
+      "bytes": 259072,
+      "sha256": "ee4a75591590297e58b9fea3bde683fa5c2fbcc7b15eed3b3b7cdf4bff559f57",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_hashlib.pyd",
+      "bytes": 49152,
+      "sha256": "2ce608685c5739bae33c14b34bc08e2840beb746f426d68614fa22cc725df35a",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_lzma.pyd",
+      "bytes": 35328,
+      "sha256": "4496a6299623b0d46342dbf06afc779539bd96030cbcbbd824cced9781755db5",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_multiprocessing.pyd",
+      "bytes": 22016,
+      "sha256": "387970b6fc16ccee5f499a80e4c7b12bffd2c00196920d56ea27c7fe11a24da1",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_queue.pyd",
+      "bytes": 19968,
+      "sha256": "46690352b5d54f82ff254a5ba239836d3224bb21f0b95225250b07b7596c0db1",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_socket.pyd",
+      "bytes": 68608,
+      "sha256": "46330caa0ef439dc9af9bef778d5c742dacae3d61d41602bb3e245b62c29b350",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_ssl.pyd",
+      "bytes": 168960,
+      "sha256": "e666ee17a604ca4078584934554a777c11c0f5acc07cf9d09028437c6382828d",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/_tkinter.pyd",
+      "bytes": 53248,
+      "sha256": "8983d74836cc92c549d25871703dcd3f206f25aede48ab3c25da471d63a35cdf",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/api-ms-win-core-console-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "9f3608c15c5de2f577a2220ce124b530825717d778f1e3941e536a3ab691f733",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-datetime-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "3b68d7ab0641de6b3e81d209b7c0d3896e4ffa76617bbadd01eb54036cdd1b07",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-debug-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "55574f9e80d313048c245acefd21801d0d6c908a8a5049b4c46253efaf420f89",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-errorhandling-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "b3715112a7ca4c6cc0efee044bd82444d3267a379e33a3ec118d87e75604204d",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-file-l1-1-0.dll",
+      "bytes": 22280,
+      "sha256": "56de091efe467fe23cc989c1ee21f3249a1bdb2178b51511e3bd514df12c5ccb",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-file-l1-2-0.dll",
+      "bytes": 18696,
+      "sha256": "322d963d2a2aefd784e99697c59d494853d69bed8efd4b445f59292930a6b165",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-file-l2-1-0.dll",
+      "bytes": 18696,
+      "sha256": "1ea267a2e6284f17dd548c6f2285e19f7edb15d6e737a55391140ce5cb95225e",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-handle-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "8ee2de377a045c52bbb05087ae3c2f95576edfb0c2767f40b13454f2d9f779de",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-heap-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "87a5c5475e9c26fabfead6802dac8a62e2807e50e0d18c4bfadcb15ebf5bcbc0",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-interlocked-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "5cd00ff4731691f81ff528c4b5a2e408548107efc22cc6576048b0fdce3dfbc9",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-libraryloader-l1-1-0.dll",
+      "bytes": 19720,
+      "sha256": "8e01eb923fc453f927a7eca1c8aa5643e43b360c76b648088f51b31488970aa0",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-localization-l1-2-0.dll",
+      "bytes": 21256,
+      "sha256": "a07cc878ab5595aacd4ab229a6794513f897bd7ad14bcec353793379146b2094",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-memory-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "c2e887a17875d39099d662a42f58c120b9cc8a799afd87a9e49adf3faddd2b68",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-namedpipe-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "593fa2aa2474508ad942bbaa0fdc9a1badd81c85b0dff1c43b90a47c23ad5fb7",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-processenvironment-l1-1-0.dll",
+      "bytes": 19720,
+      "sha256": "ea2972fec12305825162ae3e1ae2b6c140e840be0e7ebb51a7a77b7feeda133a",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-processthreads-l1-1-0.dll",
+      "bytes": 20744,
+      "sha256": "a1221836731c7e52c42d5809cc02b17c5ec964601631ec15a84201f423da4ac4",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-processthreads-l1-1-1.dll",
+      "bytes": 19208,
+      "sha256": "fe760614903e6d46a1be508dccb65cf6929d792a1db2c365fc937f2a8a240504",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-profile-l1-1-0.dll",
+      "bytes": 18184,
+      "sha256": "9e98b03a3ca1ebabdceb7ed9c0ceb4912bb68eb68f3e0df17f39c7a55fada31d",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "cdc4cfebf9cba85b0d3979befdb258c1f2cfcb79edd00da2dfbf389d080e4379",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-string-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "854db7d2085caacf83d6616761d8bdcbacb54a06c9a9b171b1c1a15e7dc10908",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-synch-l1-1-0.dll",
+      "bytes": 20744,
+      "sha256": "50a1542d16b42ecb3edc1edd0881744171ea52f7155e5269ad39234f0ea691de",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-synch-l1-2-0.dll",
+      "bytes": 19208,
+      "sha256": "59c14541107f5f2b94bbf8686efee862d20114bcc9828d279de7bf664d721132",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-sysinfo-l1-1-0.dll",
+      "bytes": 19720,
+      "sha256": "8310d855398f83cb5b9ca3adeb358da1354557aec5c82c8ef91a29f79a47f620",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-timezone-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "48eb5b52227b6fb5be70cb34009c8da68356b62f3e707db56af957338ba82720",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-core-util-l1-1-0.dll",
+      "bytes": 18696,
+      "sha256": "a41bede183fa1c70318332d6bc54ef13817aeee6d52b3ab408f95fa532b809f1",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-conio-l1-1-0.dll",
+      "bytes": 19720,
+      "sha256": "d5960c7356e8ab97d0ad77738e18c80433da277671a6e89a943c7f7257ff3663",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-convert-l1-1-0.dll",
+      "bytes": 22792,
+      "sha256": "83678f181f46fe77f8afe08bfc48aebb0b4154ad45b2efe9bfadc907313f6087",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-environment-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "f7c6c7ea22edd2f8bd07aa5b33cbce862ef1dcdc2226eb130e0018e02ff91dc1",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "bytes": 20744,
+      "sha256": "610332203d29ab218359e291401bf091bb1db1a6d7ed98ab9a7a9942384b8e27",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-heap-l1-1-0.dll",
+      "bytes": 19720,
+      "sha256": "af47aebe065af2f045a19f20ec7e54a6e73c0c3e9a5108a63095a7232b75381a",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-locale-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "b3b6ee98aca14cf5bc9f3bc7897bc23934bf85fc4bc25b7506fe4cd9a767047a",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-math-l1-1-0.dll",
+      "bytes": 27912,
+      "sha256": "a25d0654deb0cea1aef189ba2174d0f13bdf52f098d3a9ec36d15e4bfb30c499",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-multibyte-l1-1-0.dll",
+      "bytes": 26888,
+      "sha256": "dff24441df89a02dde1cd984e4d3820845bafdff105458ed10d510126117115b",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-private-l1-1-0.dll",
+      "bytes": 71432,
+      "sha256": "adbb658dd1cbecaca7cc1322b51976f30b36ccf0a751f3bad1f29d350b192c9c",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-process-l1-1-0.dll",
+      "bytes": 19720,
+      "sha256": "fc50a37acc35345c99344042d7212a4ae88aa52a894cda3dcb9f6db46d852558",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-runtime-l1-1-0.dll",
+      "bytes": 23304,
+      "sha256": "371a44ab91614a8c26d159beb872a7b43f569cb5fac8ada99ace98f264a3b503",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-stdio-l1-1-0.dll",
+      "bytes": 24840,
+      "sha256": "0189cbd84dea035763a7e52225e0f1a7dcec402734885413add324bffe688577",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-string-l1-1-0.dll",
+      "bytes": 24840,
+      "sha256": "885309eb86dccd8e234ba05e13fe0bf59ab3db388ebfbf6b4fd6162d8e287e82",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-time-l1-1-0.dll",
+      "bytes": 21256,
+      "sha256": "00ac02d39b7b16406850e02ca4a6101f45d6f7b4397cc9e069f2ce800b8500b9",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/api-ms-win-crt-utility-l1-1-0.dll",
+      "bytes": 19208,
+      "sha256": "984306a3547be2f48483d68d0466b21dda9db4be304bedc9ffdb953c26cac5a1",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/ffi.dll",
+      "bytes": 28160,
+      "sha256": "812eeff28941d7a7f93cd64ec880eb8e773f613536ccba9d3cb1049dd884b027",
+      "file_version": null,
+      "product": null
+    },
+    {
+      "path": "_internal/LIBBZ2.dll",
+      "bytes": 187904,
+      "sha256": "e4ba6a29fe1611815b74da3fd55bd657564edafac7a9907b0819ff8fb091eed5",
+      "file_version": null,
+      "product": null
+    },
+    {
+      "path": "_internal/libcrypto-3-x64.dll",
+      "bytes": 5805212,
+      "sha256": "0330b5f558996f297d687e1a2b2fcc2cacf883b16baef74aaef35285d7c1231c",
+      "file_version": "3.5.7",
+      "product": "The OpenSSL Toolkit"
+    },
+    {
+      "path": "_internal/liblzma.dll",
+      "bytes": 186368,
+      "sha256": "b8f0f02edeba6767ff105c7f36adecdabeea49b78c7e4773cb342e4edc87fa18",
+      "file_version": "5.4.2",
+      "product": "XZ Utils <https://tukaani.org/xz/>"
+    },
+    {
+      "path": "_internal/libssl-3-x64.dll",
+      "bytes": 1026716,
+      "sha256": "feb5b300e0b3a021fed481178f3d66896426576d4d13b85a304d2a3809b25bfd",
+      "file_version": "3.5.7",
+      "product": "The OpenSSL Toolkit"
+    },
+    {
+      "path": "_internal/node.EXE",
+      "bytes": 87074816,
+      "sha256": "ae1a50511be58e987483fdbc12125407443926d2d394669ade2352776e920dd3",
+      "file_version": "22.22.2",
+      "product": "Node.js"
+    },
+    {
+      "path": "_internal/pyexpat.pyd",
+      "bytes": 188928,
+      "sha256": "0cdb74ce4011233545129b32acb109fb92d0baff2e898364a37ddd49b6e4af22",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/python311.dll",
+      "bytes": 5991424,
+      "sha256": "162e8557fbed5f39ae24983ee62b2d435b4796c937d9c1a34371888c7e43af00",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/select.pyd",
+      "bytes": 18432,
+      "sha256": "4010f770d4e1a8f60de0dd22a4c6df634817c337a78b44436b87c61338114e35",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/tcl86t.dll",
+      "bytes": 1711616,
+      "sha256": "3bbd1a25b0bb2663da1895506b5a5e8405937e7cdacec3f5ab3aead16b2dd7ae",
+      "file_version": "8.6.12",
+      "product": "Tcl 8.6 for Windows"
+    },
+    {
+      "path": "_internal/tk86t.dll",
+      "bytes": 1487360,
+      "sha256": "0bd53ea9713d4084e419666dc4320736df9c20272d0b06259473fee5d62aea95",
+      "file_version": "8.6.12",
+      "product": "Tk 8.6 for Windows"
+    },
+    {
+      "path": "_internal/ucrtbase.dll",
+      "bytes": 1016584,
+      "sha256": "8a91052ef261b5fbf3223ae9ce789af73dfe1e9b0ba5bdbc4d564870a24f2bae",
+      "file_version": "10.0.17134.12 (WinBuild.160101.0800)",
+      "product": "Microsoft® Windows® Operating System"
+    },
+    {
+      "path": "_internal/unicodedata.pyd",
+      "bytes": 1126400,
+      "sha256": "df239e55df1679a6f1412a7ba6d2770dfb5e6893830252477c6121fe08795f67",
+      "file_version": "3.11.5",
+      "product": "Python"
+    },
+    {
+      "path": "_internal/VCRUNTIME140.dll",
+      "bytes": 101672,
+      "sha256": "ff43e813785ee948a937b642b03050bb4b1c6a5e23049646b891a66f65d4c833",
+      "file_version": "14.27.29016.0 built by: vcwrkspc",
+      "product": "Microsoft® Visual Studio®"
+    },
+    {
+      "path": "_internal/zlib.dll",
+      "bytes": 87552,
+      "sha256": "54c755e6b90499a5ef49a65ce9472535286fe4db3565a06c4a53f8a4833532dc",
+      "file_version": "1.2.13",
+      "product": "zlib"
+    }
+  ]
+}

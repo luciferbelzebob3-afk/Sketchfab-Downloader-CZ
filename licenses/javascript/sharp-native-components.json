@@ -1,0 +1,387 @@
+{
+  "scope": "Native dependencies declared by bundled @img/sharp-win32-x64 0.35.5",
+  "components": [
+    {
+      "component": "aom",
+      "version_key": "aom",
+      "version": "3.15.1",
+      "license_declared_in_bundled_readme": "BSD 2-Clause + [Alliance for Open Media Patent License 1.0](https://aomedia.org/license/patent-license/)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "cairo",
+      "version_key": "cairo",
+      "version": "1.18.6",
+      "license_declared_in_bundled_readme": "Mozilla Public License 1.1",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "cgif",
+      "version_key": "cgif",
+      "version": "0.5.4",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "expat",
+      "version_key": "expat",
+      "version": "2.8.5",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "fontconfig",
+      "version_key": "fontconfig",
+      "version": "2.18.3",
+      "license_declared_in_bundled_readme": "[fontconfig License](https://gitlab.freedesktop.org/fontconfig/fontconfig/blob/main/COPYING) (BSD-like)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "freetype",
+      "version_key": "freetype",
+      "version": "2.14.3",
+      "license_declared_in_bundled_readme": "[freetype License](https://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT) (BSD-like)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "fribidi",
+      "version_key": "fribidi",
+      "version": "1.0.17",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "glib",
+      "version_key": "glib",
+      "version": "2.90.0",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "harfbuzz",
+      "version_key": "harfbuzz",
+      "version": "14.5.0",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "highway",
+      "version_key": "highway",
+      "version": "1.4.0",
+      "license_declared_in_bundled_readme": "BSD 3-Clause",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "lcms",
+      "version_key": "lcms",
+      "version": "2.19.1",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libarchive",
+      "version_key": "archive",
+      "version": "3.8.9",
+      "license_declared_in_bundled_readme": "BSD 2-Clause",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libexif",
+      "version_key": "exif",
+      "version": "0.6.26",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libffi",
+      "version_key": "ffi",
+      "version": "3.8.0",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libheif",
+      "version_key": "heif",
+      "version": "1.23.5",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libimagequant",
+      "version_key": "imagequant",
+      "version": "2.4.1",
+      "license_declared_in_bundled_readme": "[BSD 2-Clause](https://github.com/lovell/libimagequant/blob/main/COPYRIGHT)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libnsgif",
+      "version_key": "libnsgif",
+      "version": null,
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "declared_in_readme_missing_version",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libpng",
+      "version_key": "png",
+      "version": "1.6.58",
+      "license_declared_in_bundled_readme": "[libpng License](https://github.com/pnggroup/libpng/blob/master/LICENSE)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "librsvg",
+      "version_key": "rsvg",
+      "version": "2.63.2",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libtiff",
+      "version_key": "tiff",
+      "version": "4.7.2",
+      "license_declared_in_bundled_readme": "[libtiff License](https://gitlab.com/libtiff/libtiff/blob/master/LICENSE.md) (BSD-like)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libultrahdr",
+      "version_key": "uhdr",
+      "version": "2.0.2",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libvips",
+      "version_key": "vips",
+      "version": "8.18.7",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libwebp",
+      "version_key": "webp",
+      "version": "1.6.0",
+      "license_declared_in_bundled_readme": "New BSD License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "libxml2",
+      "version_key": "xml2",
+      "version": "2.15.4",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "mozjpeg",
+      "version_key": "mozjpeg",
+      "version": "0826579",
+      "license_declared_in_bundled_readme": "[zlib License, IJG License, BSD 3-Clause](https://github.com/mozilla/mozjpeg/blob/master/LICENSE.md)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "pango",
+      "version_key": "pango",
+      "version": "1.58.2",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "pixman",
+      "version_key": "pixman",
+      "version": "0.46.4",
+      "license_declared_in_bundled_readme": "MIT License",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "proxy-libintl",
+      "version_key": "proxy-libintl",
+      "version": "0.5",
+      "license_declared_in_bundled_readme": "LGPLv3",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    },
+    {
+      "component": "zlib-ng",
+      "version_key": "zlib-ng",
+      "version": "2.3.3",
+      "license_declared_in_bundled_readme": "[zlib License](https://github.com/zlib-ng/zlib-ng/blob/develop/LICENSE.md)",
+      "evidence": [
+        "sharp-win32-x64-README.md",
+        "sharp-win32-x64-versions.json"
+      ],
+      "status": "version_and_license_declaration_available",
+      "exact_version_copyright_notices_complete": false,
+      "corresponding_source_delivery_verified": false
+    }
+  ],
+  "limitations": [
+    "The README lists libnsgif, but versions.json does not provide its version; presence is not independently verified.",
+    "Generic license texts and upstream references do not by themselves satisfy corresponding-source or replacement/relinking requirements.",
+    "The upstream libvips release license is retained as reference; exact shipped DLL correspondence is a separate verification."
+  ]
+}

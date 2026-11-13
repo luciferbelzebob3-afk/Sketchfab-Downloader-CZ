@@ -1,0 +1,185 @@
+{
+  "audited_on": "2026-11-13",
+  "upstream_repository": "https://github.com/seryi882/sketchfab-downloader-extension",
+  "upstream_commit": "79290fa0cfb4714f4c0d7ba617b0e3b2b1296149",
+  "upstream_tree": "79290fa0cfb4714f4c0d7ba617b0e3b2b1296149",
+  "bundled_license_path": "_internal/extlib/LICENSE",
+  "finding": "Fourteen bundled module files match byte-for-byte files in a repository that currently declares GPL-3.0. The bundle separately declares MIT with attribution to Sketchfab-Ripper, whose pinned upstream LICENSE is also preserved. Byte identity alone does not establish authorship chronology or rule out a valid separate/dual MIT grant. The applicable grant for these local modules needs provenance clarification before treating the entire set as unambiguously MIT.",
+  "comparisons": [
+    {
+      "local_path": "_internal/extlib/decrypt.js",
+      "local_sha256": "e00a2943280aa4f5be62a560e8862c98c3d18b0ec0ad23aaa61dfb6b2daaff9a",
+      "local_git_blob": "d8c8b1d44ca39c4e586a9f3f34325003e8770c78",
+      "upstream_path": "lib/decrypt.js",
+      "upstream_git_blob": "d8c8b1d44ca39c4e586a9f3f34325003e8770c78",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/descramble.js",
+      "local_sha256": "732a403f96b44fa70f35d2d64e44aca785b76377184bbcd7275610e8a3160c39",
+      "local_git_blob": "e2348cc4f49946fb4390c0930550ebeee6028108",
+      "upstream_path": "lib/descramble.js",
+      "upstream_git_blob": "5117368b35c002e26daeceb33c7525bb68d1857a",
+      "byte_identical": false
+    },
+    {
+      "local_path": "_internal/extlib/devlog.js",
+      "local_sha256": "d9b64661bd04bc3d75eae3e21295de5bacf672a362cc0c5753aae382045e1417",
+      "local_git_blob": "069a654f0e98605650058acbb705f28c00850860",
+      "upstream_path": "lib/devlog.js",
+      "upstream_git_blob": "069a654f0e98605650058acbb705f28c00850860",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/i18n.js",
+      "local_sha256": "64e7062fc84e28682d53dce4be33101f3f1fbab7a21284fc46c7e2b24b7bea0d",
+      "local_git_blob": "30f30cfff68dfb7d70c295b3d944b2e0af4533c6",
+      "upstream_path": "lib/i18n.js",
+      "upstream_git_blob": "30f30cfff68dfb7d70c295b3d944b2e0af4533c6",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/orm.js",
+      "local_sha256": "66ac49c527c963799c5a6fef871bb024b3eb8f0562cdc69ea8f99faa420117e7",
+      "local_git_blob": "4d04a975881c2319abe273cf1bb1afc6cf620402",
+      "upstream_path": "lib/orm.js",
+      "upstream_git_blob": "4d04a975881c2319abe273cf1bb1afc6cf620402",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/osg-codec.js",
+      "local_sha256": "c2199f7f3c2911d541b5cd07b1edb0408afb672a64bac8aa7ce43f22309397e3",
+      "local_git_blob": "ae7a0ab2756c4e32fa518fdea27efbc09a3f0562",
+      "upstream_path": "lib/osg-codec.js",
+      "upstream_git_blob": "ae7a0ab2756c4e32fa518fdea27efbc09a3f0562",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/osg-scene.js",
+      "local_sha256": "1ede6ac51bf05fe4a23375a7db058b8cb96dc07a44c53c8bb188528216babf82",
+      "local_git_blob": "bc015a2709df66272d9a62b945453c6213d2a6af",
+      "upstream_path": "lib/osg-scene.js",
+      "upstream_git_blob": "bc015a2709df66272d9a62b945453c6213d2a6af",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/osgjs2gltf.js",
+      "local_sha256": "dd92390da0dca286e3f0bdfcdd41916c0afa693dc2c52ad738093178e3d60aad",
+      "local_git_blob": "79c5c8e8ed8bf63a99d2675c065890356ff123fa",
+      "upstream_path": "lib/osgjs2gltf.js",
+      "upstream_git_blob": "783247ef25a40a576e0b06126dc7369e634cfebf",
+      "byte_identical": false
+    },
+    {
+      "local_path": "_internal/extlib/pipeline.js",
+      "local_sha256": "ac18e1e38fb3768e721a68955e748d03495cede8e875849871b701f9694db7e5",
+      "local_git_blob": "6286dc4ba107be7cea21c8f34f729b18b420ca0e",
+      "upstream_path": "lib/pipeline.js",
+      "upstream_git_blob": "6286dc4ba107be7cea21c8f34f729b18b420ca0e",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/run-download.js",
+      "local_sha256": "7bd7b7ff3b2d8b2b85cde050abcd385bbca76d187d4ad87e6c97ed2e6099f166",
+      "local_git_blob": "bbc70926ae56577f2faa09da56a23f8444282688",
+      "upstream_path": "lib/run-download.js",
+      "upstream_git_blob": "bbc70926ae56577f2faa09da56a23f8444282688",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/save-sw.js",
+      "local_sha256": "90c992c22490a6a00a95837f25c59e4301882101db09e4c666632a5c4ad342df",
+      "local_git_blob": "221f3939582bc98aaba9f2bb70fc1c7742acb460",
+      "upstream_path": "lib/save-sw.js",
+      "upstream_git_blob": "221f3939582bc98aaba9f2bb70fc1c7742acb460",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/save.js",
+      "local_sha256": "641c5bbfadc75cba3b8a8566023e0e7bf5e6feb1145257bde6002e85b6d07075",
+      "local_git_blob": "f1a4568b8dc579935f01ce981a15c702e1f357ff",
+      "upstream_path": "lib/save.js",
+      "upstream_git_blob": "f1a4568b8dc579935f01ce981a15c702e1f357ff",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/settings.js",
+      "local_sha256": "5fcf0ce34c84dbc7b0f6904789f4db9fd8c63fd3abb78ac4a19ed2ea17e862f7",
+      "local_git_blob": "d8cbc2d793960673a701e707ba876608776ba925",
+      "upstream_path": "lib/settings.js",
+      "upstream_git_blob": "d8cbc2d793960673a701e707ba876608776ba925",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/sf-api.js",
+      "local_sha256": "d0d8a0bbd00c6106f80dd0d822f45baae5c095447b7d5e96bcac9e0d3c956d5f",
+      "local_git_blob": "089499d1441a98fa5d2349ccb70c428940e1cea2",
+      "upstream_path": "lib/sf-api.js",
+      "upstream_git_blob": "57e772e39a10a995d77a298a9522b3676daa3810",
+      "byte_identical": false
+    },
+    {
+      "local_path": "_internal/extlib/skin.js",
+      "local_sha256": "1cd6da3e947635c5ac22284e4cf1dd6f10f2303edebdbf93e5c0dd108b57e891",
+      "local_git_blob": "74d2e720a732c6bd95447694236f4c856edc8067",
+      "upstream_path": "lib/skin.js",
+      "upstream_git_blob": "1143555b1425e49bf1b047e3035da49405e0a640",
+      "byte_identical": false
+    },
+    {
+      "local_path": "_internal/extlib/ui-progress.js",
+      "local_sha256": "0f2083409b65e13eb5082a110d77341109870ce680e60da068f59e10b14d83df",
+      "local_git_blob": "8782e26113f15afe6d673ce9f45f4e20776e68e4",
+      "upstream_path": "lib/ui-progress.js",
+      "upstream_git_blob": "8782e26113f15afe6d673ce9f45f4e20776e68e4",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/ui-settings.js",
+      "local_sha256": "5de82096578366e701e119d4addee8ada2b964d71fb6fd6f2a2e72fc6ed854b1",
+      "local_git_blob": "b420c930bda0169a938223b2834236b314b5700b",
+      "upstream_path": "lib/ui-settings.js",
+      "upstream_git_blob": "b420c930bda0169a938223b2834236b314b5700b",
+      "byte_identical": true
+    },
+    {
+      "local_path": "_internal/extlib/zip.js",
+      "local_sha256": "3df5a7addfcd0e8fd94f6fbe4cd58688d728fe7734312893411ff2271682eb05",
+      "local_git_blob": "855ece11b2ddda95fe676bea46e9b6d5012d3e2e",
+      "upstream_path": "lib/zip.js",
+      "upstream_git_blob": "855ece11b2ddda95fe676bea46e9b6d5012d3e2e",
+      "byte_identical": true
+    }
+  ],
+  "declared_mit_upstream": {
+    "repository": "https://github.com/anotherRandomPersonlol/Sketchfab-Ripper",
+    "commit": "5693657395ca7ef6620e551bbb76d35cb26da9df",
+    "license_file": "extlib-declared-upstream-MIT-LICENSE.txt",
+    "source_attribution_matches": [
+      {
+        "line": 24,
+        "text": "// @author       anotherRandomPersonlol"
+      },
+      {
+        "line": 25,
+        "text": "// @license      MIT"
+      }
+    ]
+  },
+  "wasm_comparison": {
+    "local_path": "_internal/engine/tools/wasm/decrypt.wasm",
+    "local_sha256": "c525727dfad3beca2f710a74215d9723425dbbd479e1d837b8b4c9c75f8b35ee",
+    "local_git_blob": "2fa69a39d3f7826d8b7a756a7c0c436a49f076bd",
+    "upstream_path": "lib/wasm/decrypt.wasm",
+    "upstream_git_blob": "2fa69a39d3f7826d8b7a756a7c0c436a49f076bd",
+    "byte_identical": true
+  },
+  "identified_application_upstream": {
+    "repository": "https://github.com/dlutwizard/skfb-glb-exporter",
+    "tag": "v1.1.3",
+    "commit": "f5168793d22f9df2a4242fb863e929e67f7013ce",
+    "license": "MIT",
+    "evidence": "../application/manifest.json",
+    "note": "The application upstream also declares MIT for extlib. This preserves its grant as evidence; it does not determine chronology or scope of the overlapping GPL declaration."
+  }
+}

@@ -6,7 +6,7 @@
 
 **České rozhraní nástroje pro stahování modelů ze Sketchfabu a export do GLB s materiály a texturami.** Přenosný balíček pro Windows nabízí dávkové zpracování odkazů, přehled průběhu a ovládání z příkazové řádky.
 
-Tento repozitář představuje českou verzi a shromažďuje její dokumentaci. Jde o nezávislý, neoficiální projekt bez spojení se společností Sketchfab.
+Česká distribuce vychází z projektu [dlutwizard/skfb-glb-exporter](https://github.com/dlutwizard/skfb-glb-exporter), jehož autorem je **dlutwizard**. Tento repozitář představuje českou verzi a shromažďuje její dokumentaci. Jde o nezávislý, neoficiální projekt bez spojení se společností Sketchfab.
 
 ## Stav zveřejnění
 
@@ -58,11 +58,11 @@ Zástupný text `ODKAZ_NA_MODEL` nahraďte skutečným odkazem. Přepínač `--c
 
 ## Licence a původ
 
-[Licence MIT](LICENSE) se vztahuje **pouze na nově vytvořenou dokumentaci tohoto repozitáře**. Nevztahuje se na soubory EXE, přibalené komponenty aplikace ani modely a textury třetích stran.
+Původní aplikace **skfb-glb-exporter** je zveřejněna pod **MIT**, Copyright (c) 2026 **dlutwizard**. [Původní licence verze 1.1.3](licenses/application/upstream-v1.1.3-LICENSE.txt) byla obnovena beze změny.
 
-Původ a licenční označení vybraných komponent místního balíčku shrnuje [přehled komponent třetích stran](THIRD_PARTY_NOTICES.md). Tyto komponenty nejsou součástí tohoto repozitáře.
+[MIT licence tohoto repozitáře](LICENSE) se vztahuje na nově vytvořenou dokumentaci. Kopie cizích licencí a oznámení, aplikace a její závislosti mají své vlastní podmínky. Podrobnosti, zdroje a zbývající otázky distribuce obsahují [licenční podklady](LICENSING.md) a [přehled komponent](THIRD_PARTY_NOTICES.md).
 
-Používejte jen obsah, k jehož stažení a zamýšlenému použití máte oprávnění. Technická dostupnost modelu nemění licenci udělenou jeho autorem.
+Licence programu se nevztahuje na modely a textury třetích stran. Používejte jen obsah, k jehož stažení a zamýšlenému použití máte oprávnění.
 
 ## Chyby, nápady a podpora projektu
 
@@ -74,4 +74,4 @@ Pokud vám projekt pomáhá, můžete jej podpořit hvězdičkou na GitHubu nebo
 
 **Sketchfab Downloader CZ** documents a Czech-language portable Windows application for batch Sketchfab model downloads and GLB export with materials and textures. The documented local package is version **1.1.3**, built on **November 3, 2026**.
 
-This repository currently contains **documentation only**. No application archive or complete application source code is published here. The MIT license covers only the original documentation in this repository, not application binaries, third-party components, models or textures. This is an independent, unofficial project; use only content you are authorized to download and use.
+This repository currently contains **documentation only**. No application archive or complete application source code is published here. The original application by **dlutwizard** is MIT-licensed; its original license is preserved in this repository. The repository-level MIT license covers original documentation only. Third-party components and reproduced notices retain their own terms; see [licensing details](LICENSING.md) for the recorded evidence and unresolved distribution questions. This is an independent, unofficial project; use only content you are authorized to download and use.

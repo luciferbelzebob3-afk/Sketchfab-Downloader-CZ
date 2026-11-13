@@ -1,0 +1,175 @@
+{
+  "schema": 1,
+  "review_date": "2026-11-13",
+  "scope": "Python third-party packages identified statically inside Sketchfab Stahovac 1.1.3; excludes Python standard library, native runtime and PyInstaller, which are inventoried separately.",
+  "method": "Official exact-version PyPI wheel downloads; SHA-256 matched to PyPI metadata before extraction; only license and notice files preserved. No package code was installed or run.",
+  "packages": [
+    {
+      "name": "certifi",
+      "version": "2026.10.23",
+      "metadata_url": "https://pypi.org/pypi/certifi/2026.10.23/json",
+      "project_urls": {
+        "Homepage": "https://github.com/certifi/python-certifi",
+        "Source": "https://github.com/certifi/python-certifi"
+      },
+      "license": "MPL-2.0",
+      "license_expression": null,
+      "license_classifiers": [
+        "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)"
+      ],
+      "wheel_url": "https://files.pythonhosted.org/packages/32/d1/a3652fe2c19134d0d15922177821d863cbd7e842d53a21bbe7e8e3a1b5ac/certifi-2026.10.23-py3-none-any.whl",
+      "wheel_sha256": "e9b54de76e530bb6cf0ccd036787103acb58fd42ba930ea8bf948ddbaa2f61d1",
+      "licenses": [
+        {
+          "original": "certifi-2026.10.23.dist-info/licenses/LICENSE",
+          "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7",
+          "path": "licenses/python-packages/certifi/LICENSE"
+        }
+      ],
+      "source_urls": [
+        "https://files.pythonhosted.org/packages/fd/11/b524cbd9bbdaca58608e4cf4053fd463417549e1959fa8d3aa18319f9555/certifi-2026.10.23.tar.gz"
+      ],
+      "status": "exact-version-upstream-license-restored",
+      "version_evidence": "Version literal found by static decompression of the application PYZ archive; package code was not executed.",
+      "scope_note": "License files are from the official matching release. This does not establish that every bundled code byte is unchanged from upstream.",
+      "full_license_text": {
+        "path": "licenses/python-packages/certifi/MPL-2.0.txt",
+        "url": "https://www.mozilla.org/media/MPL/2.0/index.txt",
+        "sha256": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04",
+        "status": "official-license-text"
+      },
+      "version_module": "certifi"
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.5.2",
+      "metadata_url": "https://pypi.org/pypi/charset-normalizer/3.5.2/json",
+      "project_urls": {
+        "Changelog": "https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
+        "Code": "https://github.com/jawah/charset_normalizer",
+        "Documentation": "https://charset-normalizer.readthedocs.io/",
+        "Issue tracker": "https://github.com/jawah/charset_normalizer/issues"
+      },
+      "license": "MIT",
+      "license_expression": null,
+      "license_classifiers": [],
+      "wheel_url": "https://files.pythonhosted.org/packages/e8/fc/fdf8cf52ff21cd5bf158f20978991cf985325842f74283eb6df26c8a39d8/charset_normalizer-3.5.2-cp311-cp311-win_amd64.whl",
+      "wheel_sha256": "87e50a3e7cb90af586b6c5faf23e302a970415ac73bd7bd90a515a04b427ef96",
+      "licenses": [
+        {
+          "original": "charset_normalizer-3.5.2.dist-info/licenses/LICENSE",
+          "sha256": "18577485d3704f1a479ded8e573c0976cfed315fd2fd17983fa988da4c2f70d1",
+          "path": "licenses/python-packages/charset-normalizer/LICENSE"
+        }
+      ],
+      "source_urls": [
+        "https://files.pythonhosted.org/packages/33/1c/f41d4e74c28ab327ff3acd36053f7ea506c55872d7a90b0fa71aa3ab0c89/charset_normalizer-3.5.2.tar.gz"
+      ],
+      "status": "exact-version-upstream-license-restored",
+      "version_evidence": "Version literal found by static decompression of the application PYZ archive; package code was not executed.",
+      "scope_note": "License files are from the official matching release. This does not establish that every bundled code byte is unchanged from upstream.",
+      "version_module": "charset_normalizer.version"
+    },
+    {
+      "name": "idna",
+      "version": "3.20",
+      "metadata_url": "https://pypi.org/pypi/idna/3.20/json",
+      "project_urls": {
+        "Changelog": "https://github.com/kjd/idna/blob/master/HISTORY.md",
+        "Issue tracker": "https://github.com/kjd/idna/issues",
+        "Source": "https://github.com/kjd/idna"
+      },
+      "license": null,
+      "license_expression": "BSD-3-Clause",
+      "license_classifiers": [],
+      "wheel_url": "https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl",
+      "wheel_sha256": "ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c",
+      "licenses": [
+        {
+          "original": "idna-3.20.dist-info/licenses/LICENSE.md",
+          "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04",
+          "path": "licenses/python-packages/idna/LICENSE.md"
+        }
+      ],
+      "source_urls": [
+        "https://files.pythonhosted.org/packages/f5/08/8eea9d4b8302028f3abb2c0813953f7aec26d33b7a8960ed760e65ff29fa/idna-3.20.tar.gz"
+      ],
+      "status": "exact-version-upstream-license-restored",
+      "version_evidence": "Version literal found by static decompression of the application PYZ archive; package code was not executed.",
+      "scope_note": "License files are from the official matching release. This does not establish that every bundled code byte is unchanged from upstream.",
+      "version_module": "idna.package_data"
+    },
+    {
+      "name": "requests",
+      "version": "2.34.2",
+      "metadata_url": "https://pypi.org/pypi/requests/2.34.2/json",
+      "project_urls": {
+        "Documentation": "https://requests.readthedocs.io",
+        "Source": "https://github.com/psf/requests"
+      },
+      "license": "Apache-2.0",
+      "license_expression": null,
+      "license_classifiers": [
+        "License :: OSI Approved :: Apache Software License"
+      ],
+      "wheel_url": "https://files.pythonhosted.org/packages/a0/f4/c67b0b3f1b9245e8d266f0f112c500d50e5b4e83cb6f3b71b6528104182a/requests-2.34.2-py3-none-any.whl",
+      "wheel_sha256": "2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0",
+      "licenses": [
+        {
+          "original": "requests-2.34.2.dist-info/licenses/LICENSE",
+          "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b",
+          "path": "licenses/python-packages/requests/LICENSE"
+        },
+        {
+          "original": "requests-2.34.2.dist-info/licenses/NOTICE",
+          "sha256": "f5110972dedad2b4e9d314518daf3b7d72d6e02e499acd802181de6f74571dcc",
+          "path": "licenses/python-packages/requests/NOTICE"
+        }
+      ],
+      "source_urls": [
+        "https://files.pythonhosted.org/packages/ac/c3/e2a2b89f2d3e2179abd6d00ebd70bff6273f37fb3e0cc209f48b39d00cbf/requests-2.34.2.tar.gz"
+      ],
+      "status": "exact-version-upstream-license-restored",
+      "version_evidence": "Version literal found by static decompression of the application PYZ archive; package code was not executed.",
+      "scope_note": "License files are from the official matching release. This does not establish that every bundled code byte is unchanged from upstream.",
+      "version_module": "requests.__version__"
+    },
+    {
+      "name": "urllib3",
+      "version": "2.8.0",
+      "metadata_url": "https://pypi.org/pypi/urllib3/2.8.0/json",
+      "project_urls": {
+        "Changelog": "https://github.com/urllib3/urllib3/blob/main/CHANGES.rst",
+        "Code": "https://github.com/urllib3/urllib3",
+        "Documentation": "https://urllib3.readthedocs.io",
+        "Issue tracker": "https://github.com/urllib3/urllib3/issues",
+        "Security policy": "https://urllib3.readthedocs.io/en/latest/security.html"
+      },
+      "license": null,
+      "license_expression": "MIT",
+      "license_classifiers": [],
+      "wheel_url": "https://files.pythonhosted.org/packages/92/9d/c4e665119135114480843e7ab388fa94d8480650450e6f8e26b70d323a4c/urllib3-2.8.0-py3-none-any.whl",
+      "wheel_sha256": "0cf3cae568d36aa9576b28dfb35f11328f1cb974ca7647d9475ebb86c75ac6e3",
+      "licenses": [
+        {
+          "original": "urllib3-2.8.0.dist-info/licenses/LICENSE.txt",
+          "sha256": "130e3a64d5fdd5d096a752694634a7d9df284469de86e5732100268041e3d686",
+          "path": "licenses/python-packages/urllib3/LICENSE.txt"
+        }
+      ],
+      "source_urls": [
+        "https://files.pythonhosted.org/packages/e3/05/b17359e1cefb4f909b5e40b1b90a496d987258916dbbf88e842c729f510e/urllib3-2.8.0.tar.gz"
+      ],
+      "status": "exact-version-upstream-license-restored",
+      "version_evidence": "Version literal found by static decompression of the application PYZ archive; package code was not executed.",
+      "scope_note": "License files are from the official matching release. This does not establish that every bundled code byte is unchanged from upstream.",
+      "version_module": "urllib3._version"
+    }
+  ],
+  "application_evidence": {
+    "file": "Sketchfab Stahovač.exe",
+    "sha256": "c4faff14b1e61a5affd3c9d2e4e95518cddaeea38464e753cbc8f851d244072e",
+    "embedded_python_version": 311,
+    "archive": "PyInstaller CArchive -> PYZ-00.pyz"
+  }
+}
