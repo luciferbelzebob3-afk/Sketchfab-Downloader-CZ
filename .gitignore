@@ -1,0 +1,35 @@
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+config.json
+settings.json
+*.log
+
+# Application bundles and generated files
+_internal/
+*.exe
+*.dll
+*.pyd
+*.zip
+*.7z
+*.rar
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# Downloaded model assets
+downloads/
+output/
+models/
+*.glb
+*.gltf
+*.bin
+*.binz
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
